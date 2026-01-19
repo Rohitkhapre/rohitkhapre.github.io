@@ -48,10 +48,10 @@ const Footer = () => {
 
           {/* Copyright */}
           <div className="flex items-center gap-1 text-sm text-muted-foreground">
-            <span>© 2024 Rohit Khapre</span>
+            <span>© 2026 Rohit Khapre</span>
             <span className="hidden sm:inline">•</span>
             <span className="hidden sm:flex items-center gap-1">
-              Built with <Heart className="w-3.5 h-3.5 text-destructive" /> & Terraform
+              DevOps guy
             </span>
           </div>
         </div>

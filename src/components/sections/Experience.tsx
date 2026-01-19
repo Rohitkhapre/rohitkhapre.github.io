@@ -8,6 +8,7 @@ const Experience = () => {
       period: "Aug 2025 – Present",
       location: "Remote",
       current: true,
+      link: "https://zeidler.group/",
       achievements: [
         "Terraform-based AWS infrastructure provisioning for multi-environment setups",
         "GitLab CI/CD pipelines for infrastructure and application deployments",
@@ -16,12 +17,12 @@ const Experience = () => {
       ]
     },
     {
-      company: "Atrina Technologies (1Finance)",
+      company: "Atrina Technologies",
       role: "DevOps Engineer",
       period: "May 2023 – Aug 2025",
       location: "India",
       current: false,
-      link: "https://1finance.co.in/",
+      link: "https://atriina.com/",
       achievements: [
         "Designed highly available cloud architecture on AWS for fintech applications",
         "Built and maintained Jenkins & GitLab CI/CD pipelines for 20+ microservices",
