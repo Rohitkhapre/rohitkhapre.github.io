@@ -20,7 +20,7 @@ const Experience = () => {
       company: "Atrina Technologies",
       role: "DevOps Engineer",
       period: "May 2023 – Aug 2025",
-      location: "India",
+      location: "Mumbai, On-site",
       current: false,
       link: "https://atriina.com/",
       achievements: [
